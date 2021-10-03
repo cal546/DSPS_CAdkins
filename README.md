@@ -1,2 +1,4 @@
 # DSPS_Cadkins
-I am currently working by myself
+Hw4 I am working with Ian Roy 
+I did the data manipulation and code
+He did the plots and dissucion 
